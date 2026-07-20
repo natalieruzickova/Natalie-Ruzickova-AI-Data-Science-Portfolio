@@ -1,3 +1,11 @@
 # Natalie-Ruzickova-AI-Data-Science-Portfolio
 Data &amp; AI Enthusiast · Continuous Service Improvement Engineer · Business Informatics · Machine Learning · Generative AI · Python · SQL
 
+# 🚀 Featured Projects
+
+| Project | Description | Technologies | Skills |
+|---|---|---|---|
+|**Customer Segmentation Using RFM Analysis & K-Means Clustering** | Developed a customer segmentation workflow for an e-commerce dataset using RFM analysis and K-Means clustering. Identified customer groups based on purchasing behavior, including Champions, Potential Loyalists, Promising, and Hibernating segments. Provided insights for personalized marketing strategies and CRM optimization. | Python, R, Pandas, K-Means, RFM Analysis, Data Visualization | Customer Analytics, Unsupervised Learning, CRM, Business Intelligence |
+|**Data Mining - Customer Response Prediction** | Implemented a complete machine learning workflow on a marketing dataset. Performed data exploration, preprocessing, categorical encoding, feature preparation, and compared multiple classification algorithms including Naïve Bayes, K-Nearest Neighbors, and Decision Trees using evaluation metrics. | Python, Pandas, Scikit-learn, Machine Learning, Matplotlib | Classification, Predictive Analytics, Model Evaluation |
+|**Text Mining - Data Maturity Analysis** | Built a text mining pipeline to analyze PDF documents and identify important concepts related to data maturity. Applied text preprocessing, TF-IDF analysis, term frequency evaluation, and visualization techniques to extract meaningful patterns from unstructured text. | Python, NLP, TF-IDF, Text Mining, Data Visualization | Natural Language Processing, Data Analysis, Information Extraction |
+|**Customer Segmentation Analysis - Online Retail II Dataset** | Created an end-to-end customer segmentation project using transactional retail data. Cleaned and transformed raw data, calculated RFM metrics, standardized features, determined optimal clusters using elbow method and silhouette analysis, and interpreted customer groups using visualization techniques. | Python, Pandas, Scikit-learn, K-Means, Seaborn/Matplotlib | Data Cleaning, Feature Engineering, Clustering, Customer Behavior Analysis |
