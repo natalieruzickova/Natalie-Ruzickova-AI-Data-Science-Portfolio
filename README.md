@@ -1,11 +1,11 @@
-# Natalie-Ruzickova-AI-Data-Science-Portfolio
+# Natalie Ruzickova | AI/Data Science Portfolio
 Data &amp; AI Enthusiast · Continuous Service Improvement Engineer · Business Informatics · Machine Learning · Generative AI · Python · SQL
 
 # 🚀 Featured Projects
 
 | Project | Description | Technologies | Skills |
 |---|---|---|---|
-| 🛒 Customer Segmentation Using RFM Analysis & K-Means Clustering | Developed a customer segmentation model for an e-commerce business using purchasing behavior analysis and clustering techniques. | Python, R, K-Means, RFM, Pandas | Customer Analytics, CRM, Unsupervised Learning |
+| 🛒 Customer Segmentation Using RFM Analysis & K-Means Clustering | Developed a customer segmentation model for an e-commerce business using purchasing behavior analysis and clustering techniques. | Python, K-Means, RFM, Pandas | Customer Analytics, CRM, Unsupervised Learning |
 | 🤖 Data Mining - Customer Response Prediction | Built and compared machine learning classification models to predict customer responses in a marketing dataset. | Python, Scikit-learn, Pandas | Machine Learning, Classification, Model Evaluation |
 | 📚 Text Mining - Data Maturity Analysis | Applied NLP and text mining techniques to extract meaningful patterns and dimensions from research documents. | Python, NLP, TF-IDF | Natural Language Processing, Data Analysis |
 | 🛍️ Customer Segmentation Analysis - Online Retail II Dataset | Created an end-to-end clustering workflow to analyze customer behavior using transactional data. | Python, Pandas, K-Means | Data Cleaning, Feature Engineering, Clustering |
